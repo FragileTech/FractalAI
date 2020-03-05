@@ -1,7 +1,9 @@
 # Fractal AI: A Fragile Theory of Intelligence
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
 
-**Please note this project is under active development and may change over time.
-Consider it as an open beta.**
+**This repository is deprecated. If you would like to use any of the algorithms for your own research please refer to the [fragile framework](https://github.com/guillemdb/fragile).**
+
+**It is only for educational purposes, and for providing code to the [Fractal AI](https://arxiv.org/abs/1803.05049) paper.** 
 
 ![Boxing-v0](assets/boxing.gif "Boxing-v0 76 samples per action")
 ![MsPacman-v0](assets/mspacman.gif "MsPacman-v0 154 samples per action")
@@ -291,19 +293,6 @@ Their patience, understanding and support made possible for this project to evol
   [José M. Amigó](http://www.umh.es/contenido/pdi/:persona_5536/datos_es.html), [Antoni Elias](https://twitter.com/eliasfuste),
   [Jose Berengueres](https://twitter.com/harriken), [Javier Ozón](https://twitter.com/fjozon),
   [Samuel Graván](https://twitter.com/Samuel__GP), and [Marc Garcia](https://twitter.com/datapythonista).
-
-## TODO
-
-We are actively working in improving this project, and we welcome all contributions.
-Some of the to-dos in our roadmap:
-
-- Build a new benchmarking tool for large scale testing with confidence intervals. 
-- Making the repository more friendly to academia.
-- Improving the Introduction to Fractal AI document.
-- Improving code clarity and docstrings.
-- Providing a command line interface (CLI).
-- Uploading the project to pip and Conda package managers.
-- Creating a Docker container for ease of use.
 
 ## Bibliography
 
