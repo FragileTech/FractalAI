@@ -1,7 +1,7 @@
 # Fractal AI: A Fragile Theory of Intelligence
 [![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
 
-**This repository is deprecated. If you would like to use any of the algorithms for your own research please refer to the [fragile framework](https://github.com/guillemdb/fragile).**
+**This repository is deprecated. If you would like to use any of the algorithms for your own research please refer to the [fragile framework](https://github.com/FragileTech/fragile).**
 
 **It is only for educational purposes, and for providing code to the [Fractal AI](https://arxiv.org/abs/1803.05049) paper.** 
 
